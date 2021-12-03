@@ -7,4 +7,5 @@ Hello, i am Chandu👋🙎‍♂️
   <p>Full-Stack Web Developer</p>
   <img src="https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2018/10/Blog_Full-stack-dev.jpg" width="30%"/>
 </div>
-<p>Seeking for the position of Full-Stack Web Developer.</p> <p>Some technologies i enjoy working with include ReactJS, JavaScript, Nodejs </p>
+<p>Seeking for the position of Full-Stack Web Developer.</p>
+<p>Some technologies i enjoy working with include ReactJS, JavaScript, Nodejs </p>
